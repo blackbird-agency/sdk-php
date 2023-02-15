@@ -1,9 +1,10 @@
 {
-    "name": "wl-online-payments-direct/sdk-php",
+    "name": "blackbird-agency/sdk-php",
     "type": "library",
     "description": "PHP SDK to communicate with the payment platform server-to-server API",
     "keywords": ["SDK"],
     "license": "MIT",
+    "version": "4.6.1",
     "authors": [
         {
             "name": "OnlinePayments"
